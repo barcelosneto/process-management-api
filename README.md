@@ -363,7 +363,7 @@ Arquivo:
 Backend Developer — Python | C# / ASP.NET Core | REST APIs | Automação | IA
 
 - GitHub: [github.com/barcelosneto](https://github.com/barcelosneto)
-- LinkedIn: adicione aqui a URL personalizada do seu perfil LinkedIn
+- LinkedIn: [linkedin.com/in/barcelosneto](https://www.linkedin.com/in/barcelosneto)
 
 ---
 
